@@ -18,12 +18,13 @@ a{
 
 .my-resume{
 background-color: #FFFBE6;
+font-family: 'Open Sans Condensed', sans-serif;
 }
 .heder-label{
 	padding: 2%;
 }
-/*Navigation*/
 
+/*Navigation*/
 .navbar{
 	background-color: #327185;
 }
@@ -36,9 +37,9 @@ background-color: #FFFBE6;
 	color: white;
 	font-size: 1.1em;
 }
-.nav li a:hover{
-	color: white;
-	font-size: 1.1em;
+
+.nav a:hover{
+	color: #E7B13C;
 }
 
 
@@ -49,7 +50,6 @@ background-color: #FFFBE6;
 .nav li:nth-child(5){
 	border-right: 0 solid black;
 }
-
 /*End Navigation*/
 /* Content about-me*/
 .wrapper{
@@ -75,7 +75,6 @@ background-color: #FFFBE6;
 }
 
 /* End Content about-me*/
-
 /* Content education*/
 .content-education h2{
    border-bottom: 5px solid black;
@@ -84,7 +83,6 @@ background-color: #FFFBE6;
 }
 
 /* End Content education*/
-
 /* content-skills*/
 .list-slills li{
    padding: 3px;
