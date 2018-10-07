@@ -6,4 +6,31 @@
 
 .container{
 	max-width: 1024px;
+
+}
+/*Navigation*/
+
+/* Content about-me*/
+.content-about-me{
+  padding-top: 5%;
+  padding-bottom: 8%;
+  padding-right: 3%;
+  padding-left: 3%;
+  border-bottom: 2px solid gray;
+}
+
+.content-about-me h1{
+   border-bottom: 5px solid black;
+   padding-bottom: 0.5%;
+}
+
+.content-about-me p{
+	padding-top: 5%;
+}
+.content-about-me .row{
+	
+}
+.photo-description{
+	font-size: 0.9em;
+	font-style: italic;
 }
