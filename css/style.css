@@ -18,7 +18,7 @@ a{
 
 .my-resume{
 background-color: #FFFBE6;
-font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Niramit', sans-serif;
 }
 .heder-label{
 	padding: 2%;
@@ -53,10 +53,7 @@ font-family: 'Open Sans Condensed', sans-serif;
 /*End Navigation*/
 /* Content about-me*/
 .wrapper{
-  padding-top: 5%;
-  padding-bottom: 5%;
-  padding-right: 4%;
-  padding-left: 4%;
+  padding:5% 4% 5% 4%;	
   border-bottom: 2px solid gray;
 }
 
