@@ -13,6 +13,9 @@ a{
 	color: black;
 }
 
+.heder-label{
+	padding: 2%;
+}
 /*Navigation*/
 
 /*End Navigation*/
@@ -27,6 +30,7 @@ a{
 
 .content-about-me h1{
    border-bottom: 5px solid black;
+   padding-bottom: 1%;
 }
 
 .content-about-me p{
@@ -44,6 +48,7 @@ a{
 .content-education h2{
    border-bottom: 5px solid black;
    margin-bottom: 6%;
+   padding-bottom: 1%;
 }
 
 /* End Content education*/
@@ -59,4 +64,13 @@ a{
 }
 
 /* End content-skills*/
-/* content-skills*/
+
+/* content-contact*/
+.content-contact h2{
+   border-bottom: 5px solid black;
+   margin-bottom: 6%;
+   padding-bottom: 1%;
+}
+.contact p{
+	margin-bottom: 1.5%;
+}
