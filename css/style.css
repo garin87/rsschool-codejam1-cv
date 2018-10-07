@@ -8,6 +8,11 @@
 	max-width: 1024px;
 
 }
+a{
+	text-decoration: none !important;
+	color: black;
+}
+
 /*Navigation*/
 
 /* Content about-me*/
