@@ -15,10 +15,11 @@ a{
 
 /*Navigation*/
 
+/*End Navigation*/
 /* Content about-me*/
-.content-about-me{
+.wrapper{
   padding-top: 5%;
-  padding-bottom: 8%;
+  padding-bottom: 5%;
   padding-right: 3%;
   padding-left: 3%;
   border-bottom: 2px solid gray;
@@ -26,16 +27,36 @@ a{
 
 .content-about-me h1{
    border-bottom: 5px solid black;
-   padding-bottom: 0.5%;
 }
 
 .content-about-me p{
 	padding-top: 5%;
 }
-.content-about-me .row{
-	
-}
+
 .photo-description{
 	font-size: 0.9em;
 	font-style: italic;
 }
+
+/* End Content about-me*/
+
+/* Content education*/
+.content-education h2{
+   border-bottom: 5px solid black;
+   margin-bottom: 6%;
+}
+
+/* End Content education*/
+
+/* content-skills*/
+.list-slills li{
+   padding: 3px;
+   padding-left: 0.5rem;
+}
+.content-skills h2{
+   border-bottom: 5px solid black;
+   margin-bottom: 6%;
+}
+
+/* End content-skills*/
+/* content-skills*/
