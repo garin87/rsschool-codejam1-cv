@@ -1,0 +1,103 @@
+@import "bootstrap.min.css";
+
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
+.container{
+	max-width: 1024px;
+    background-color: #EEECF3;
+    color: #19282B;
+    padding-right: 0;
+    padding-left: 0;
+}
+a{
+	text-decoration: none !important;
+	color: black;
+}
+
+.my-resume{
+background-color: #FFFBE6;
+font-family: 'Niramit', sans-serif;
+}
+.heder-label{
+	padding: 2%;
+}
+
+/*Navigation*/
+.navbar{
+	background-color: #327185;
+}
+
+.nav li{
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+}
+.nav li a{
+	color: white;
+	font-size: 1.1em;
+}
+
+.nav a:hover{
+	color: #E7B13C;
+}
+
+
+.nav li:nth-child(1){
+	border-left: 0 solid black;
+}
+
+.nav li:nth-child(5){
+	border-right: 0 solid black;
+}
+/*End Navigation*/
+/* Content about-me*/
+.wrapper{
+  padding:5% 4% 5% 4%;	
+  border-bottom: 2px solid gray;
+}
+
+.content-about-me h1{
+   border-bottom: 5px solid black;
+   padding-bottom: 1%;
+}
+
+.content-about-me p{
+	padding-top: 5%;
+}
+
+.photo-description{
+	font-size: 0.9em;
+	font-style: italic;
+}
+
+/* End Content about-me*/
+/* Content education*/
+.content-education h2{
+   border-bottom: 5px solid black;
+   margin-bottom: 6%;
+   padding-bottom: 1%;
+}
+
+/* End Content education*/
+/* content-skills*/
+.list-slills li{
+   padding: 3px;
+   padding-left: 0.5rem;
+}
+.content-skills h2{
+   border-bottom: 5px solid black;
+   margin-bottom: 6%;
+}
+
+/* End content-skills*/
+
+/* content-contact*/
+.content-contact h2{
+   border-bottom: 5px solid black;
+   margin-bottom: 6%;
+   padding-bottom: 1%;
+}
+.contact p{
+	margin-bottom: 1.5%;
+}
